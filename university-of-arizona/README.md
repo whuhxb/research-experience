@@ -29,3 +29,33 @@ PhD Student
 ## Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md">Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023</a>
+
+## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
+
+As a Teaching Assistant, I had regular duties like any other students. But I believe, its a greater chance to learn.
+So first I needed to convince myself, my answers were right. **Prof. Cesim Erten mentored me and I learnt a lot.** It was greatly helpful.
+Also, it is because I get involved in a subject, such that I sincerely put in the efforts and hardwork that professors would like to also help and provide the requried guidance. So where there is interest and sincerity, it never gets reciprocted.
+
+### Like all my previous works, I had my own contributions to this course as a Teaching Assistant during Fall 2023:
+
+- During pandemic, I learnt about Theory of Computation and Automata theory. It was interesting. I did solve problems from Hopcroft textbook back during Pandemic. So when this course came up, I was confident and also felt the need to brush up to catch up better.
+- So I always read research papers for most of the assignments questions. Since students questions as well as answers (solutions) are creative and very unique. How prepared am I as a Teaching Assistant to learn and also help the students?
+- As a Teaching Assistant, we would not have solutions to homeworks ready during Office Hours. So we need to have strong hold on the subject such that any kind of question from students, can be attempted with fast and simpler explanations.
+
+### My contributions that helped and I received appreciation:
+
+- **During Fall 2023**, it became a Spiritual quest for me. So at one point there was a question on Left Quotient problem. I quickly found a research paper on this and I had the answer. Professor explained as well. However I had this question, this cant be "the only" solution, for some reason. So I read about Transducers before, so it was easier to connect about Transducers that have an input and output. A Turing machine that can compute partial recursive function is one example. So I used Transducers to to come up with a transducer diagram to **visually explain to the students**.
+
+    - Why is this Transducers solution unique? It was NOT part of the course material. But it was a one good way to visually explain Undergrad students as this subject was very complex to Undergrad students.
+    - The kind of questions students asked me, that flooded during my really long Teaching Assistant's long Office Hours (3-4 hours each week), I figured I must put in some extra hard work to come up with a better solution and see if Professor may like the solution.
+ 
+- **During Fall 2023**, students ask lot of re-explanations of theory, since its difficult to grasp this subject for some of them, who just take some courses as a mandatory credit and/or students come from various backgrounds/other reasons. So I proactively proposed the idea of **Supplemental Instruction sessions** at the begining of the semester (which are also the recitations/practice sessions/additional discussions about lectures), as per discussions with Professor.
+
+- **During Spring 2023**, I assimilated a lot of experience and learnings, I planned by the end of Fall 2023, to make this subject easier. So I informed the professor and professor also naturally enrolled into my idea and it quickly became a common goal. I am grateful for this experience.
+
+- **During Spring 2023,** I am parallelly working on attempts reduce stress for students, make this subject fun and with just little effort every week, to help with the burden of solving the problem. So I extended SI sessions, actively learnt from professor to explain more simpler terms each time. So I am working on Teaching as a Research course project where I am conducting a small study such that to see how better did students do from reduced stress, from very basic parameters, at University of Arizona.
+
+- This was only possible because **Prof. Cesim Erten** and I worked on the course. I am grateful for the chances to learn more. The more I learnt about the subject, the more I have come to like it and get better at it. I am truly grateful for the chances to learn and work on this as a Teaching Assistant.
+
+#viewsmyown 
+
