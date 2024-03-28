@@ -25,3 +25,7 @@ PhD Student
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-cog-sci-summary_of_Talks_related_to_Episodic_memory__Sentience__Social_norms_and_discussion_dynamics.pdf"> CogSci Colloquium Spring 2023</a>
 
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/sushma-akoju-CoSIm.pdf"> CSC NLP Colloquium CoSIM</a>
+
+## Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023
+
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/RA-work-summary.md">Research Assistant, for a DARPA project, at Clulab, University of Arizona. Aug 19th, 2022 - July 22nd, 2023</a>
