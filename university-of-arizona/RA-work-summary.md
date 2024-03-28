@@ -15,11 +15,17 @@ The main goals were to learn scala, Odin rules system. We cannot reveal many det
 
 Here although most of the tasks were well directed, I had some interesting findings of my own, following seemed like some interesting ideas but remain unexplored, that I contributed and I wanted to share: 
 
+### Jan 9th 2023
+
   a) I found out that lot of Out-of-vocabulary words existed. This was expected since Covid introduced several new terms and words. So I proposed to extract new vocabulary by appealing to neologisms. Linguistic analysis of neologism related to coronavirus (COVID-19) https://www.sciencedirect.com/science/article/pii/S2590291121000978  Oxford as well as Cambridge maintained neologisms for Covid. The apis gave both new words and word senses related to Covid.
   **This one for the love of language.**
 
+### Feb 6th 2023
+
   b) I also identified that in Covid papers, which came from different types of document structures, based on conferences/paper formats. The context and text organized was heavily dependent on structure and headings, which was even very different from AI/NLP conference papers and structure (sections, etc). So I referred to **my works from my Independent study from University of Colorado Boulder at Digital Slavery Research Lab**. I studied about Impresso project which is Historical news paper texts and Named entity extractions project, which is available at: <a href="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes/blob/main/README.md#historical-newspapers-data-studied-under-digital-humanities-hipe-identifying-historical-people-places-and-other-entities">Historical newspapers data studied under Digital Humanities: HIPE (Identifying Historical People, Places and other Entities)</a>.
   **This one for the historical newspaper and their lasting impressions.**
+
+### Mar 18th 2023
 
   c) An interesting work on Abstract Meaning Representation extended to document-level structures. 
   The idea is similar to other known approaches in Historical or OCR scanned documents: 
@@ -28,5 +34,7 @@ Here although most of the tasks were well directed, I had some interesting findi
   
   - <a href="https://arxiv.org/pdf/2205.00241.pdf">A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction<a>
   - <a href="https://aclanthology.org/C18-1313.pdf">AMR Beyond the Sentence: the Multi-sentence AMR corpus</a>
+
+### Summer 2023
 
   d) We did not implement c) exactly, but after guided review, we had a different strategy as per supervision from Prof. Mihai Surdeanu. My aforementioned three ideas remain unexplored.
