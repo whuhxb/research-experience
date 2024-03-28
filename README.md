@@ -97,6 +97,9 @@ But these works are theory involved with an intersection of Natural Language tas
 
 My submission for binary classification task at SemEval "Patronizing and Condescending Language Detection" task 4 for 2022 was ranked 1st on the Leaderboard during the first round in Dec 2021. I used pre-trained RoBERTa to finetune and conduct binary PCL classification. During this submission I suffered an unfortunate fracture to my finger which made it challenging for me to type the code for the programming part and report. Still I secured #1 rank for this course project on the competition's leaderboard for first round as well as in entire class (with ~90 students) during NLP course at University of Colorado Boulder, under supervision of Prof. James H Martin. I used a pre-trained SpanBERT, KeyBERT to finetune and conduct multi-label PCL classification https://competitions.codalab.org/competitions/34344#results  My work for this competition from 2021: 
 https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task
+Competition results: <a href="https://competitions.codalab.org/competitions/34344#results">emEval task "Patronizing and Condescending Language Detection" task 4 for 2022</a>
+
+![GJOMjZIaYAA8zIv](https://github.com/sushmaakoju/research-experience/assets/8979477/c39cabe8-639e-4edc-9d41-0b16e7cab111)
 
 The submission for this project was in Dec 2021. There were also wildfires in Boulder, Colorado soon after, so we did not proceed to the second round. My name is SUshma Akoju - so I used a username "sua" and this work was done while I was a student at University of Colorado Boulder. I had a team member Waad Alharthi, who worked on both binary as well as multi-label classification using BERT. My team member also secured within top 5 rank for this competition "waad". 
 
