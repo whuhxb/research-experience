@@ -57,7 +57,7 @@ So first I needed to convince myself, my answers were right. **Prof. Cesim Erten
 
 - **During Spring 2023,** I am parallelly working on attempts reduce stress for students, make this subject fun and with just little effort every week, to help with the burden of solving the problem. So I extended SI sessions to Spring Semester as well. I learnt from professor to explain in more simpler terms each time.
   
-- I am working on Teaching as a Research course project where I am conducting a small study such that to see how better did students do from reduced stress, from very basic parameters, at University of Arizona.
+- I am working on **Teaching as a Research course** project where I am conducting a small study such that to see how better did students do from reduced stress, from very basic parameters, under minimally guided environment, at University of Arizona. **Teaching as a Research (TAR) course** is part of CIRTL, University of Arizona taught by Kristin Winet and Byron Richard Hempel. Prof. Cesim Erten is also part of this project. I am truly grateful from **TAR** instructors Kristin and Byron and Professor for CSC 473 course: Prof. Cesim Erten.
 
 - This was only possible because **Prof. Cesim Erten** and I worked on the course. I am grateful for the chances to learn more. The more I learnt about the subject, the more I have come to like it and get better at it. I am truly grateful for the chances to learn and work on this as a Teaching Assistant.
 
