@@ -13,7 +13,7 @@ The main goals were to learn scala, Odin rules system. We cannot reveal many det
 
 ## My contributions based on my findings for the RA work, not implemented, but seemed fun to me
 
-Here although most of the tasks were well directed, I had some interesting findings of my own, following seemed like some interesting ideas but remain unexplored, that I contributed and I wanted to share: 
+Here although most of the tasks were well directed, I had some interesting findings of my own, following are my ideas but remain unexplored, that I contributed and I wanted to share, for the love of language, historical newspapers and Abstract Meaning Representations:
 
 ### Jan 9th 2023
 
