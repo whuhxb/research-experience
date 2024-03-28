@@ -30,7 +30,7 @@ As a Teaching Assistant, I had regular duties like any other student TAs. I thin
 
 - My main goal was Theory is fun so I thought others can also benefit looking at the fun side. 
   
-- I am presently working on **Teaching as a Research course** project where I am conducting a small study such that to see how better did students do from reduced stress, from very basic parameters, under minimally guided environment, at University of Arizona. **Teaching as a Research (TAR) course** is part of CIRTL, University of Arizona taught by Kristin Winet and Byron Richard Hempel. Prof. Cesim Erten is also part of this project. I am truly grateful from **TAR** instructors Kristin and Byron and Professor for CSC 473 course: Prof. Cesim Erten.
+- I am presently working on **Teaching as a Research course** project where I am conducting a small study such that to see how better did students do with some additional practice and help - studying stress-levels, from very basic parameters, under minimally guided environment, at University of Arizona. **Teaching as a Research (TAR) course** is part of CIRTL, University of Arizona taught by Kristin Winet and Byron Richard Hempel. Prof. Cesim Erten is also part of this project. I am truly grateful from **TAR** instructors Kristin and Byron and Professor for CSC 473 course: Prof. Cesim Erten.
 
 - This was only possible because **Prof. Cesim Erten** and I worked on the course. I am grateful for the chances to learn more.
 
