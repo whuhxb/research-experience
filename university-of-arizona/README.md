@@ -36,4 +36,4 @@ I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taug
 As a Teaching Assistant, I had regular duties like any other students. But I believe, its a greater chance to learn.
 So first I needed to convince myself, my answers were right. **Prof. Cesim Erten mentored me and I learnt a lot.** It was greatly helpful.
 
-<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a>
+<a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a>
