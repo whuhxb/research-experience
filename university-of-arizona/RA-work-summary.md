@@ -23,7 +23,7 @@ Here although most of the tasks were well directed, I had some interesting findi
   The idea is similar to other known approaches in Historical or OCR scanned documents: 
   label the segments and related Regions of Interests (ROI) like a sentence-span, paragraph spans to keywords/events. 
   
-  - A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction - <a href="https://arxiv.org/pdf/2205.00241.pdf">
-  - AMR Beyond the Sentence: the Multi-sentence AMR corpus - https://aclanthology.org/C18-1313.pdf
+  - <a href="https://arxiv.org/pdf/2205.00241.pdf">A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction<a>
+  - <a href="https://aclanthology.org/C18-1313.pdf">AMR Beyond the Sentence: the Multi-sentence AMR corpus</a>
 
-  d) We did not implement c) exactly, but after guided review, we had a different strategy as per supervision from Prof. Mihai Surdeanu. My aforementioned ideas remain unexplored.
+  d) We did not implement c) exactly, but after guided review, we had a different strategy as per supervision from Prof. Mihai Surdeanu. My aforementioned three ideas remain unexplored.
