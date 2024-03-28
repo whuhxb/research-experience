@@ -1,14 +1,14 @@
 ## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
 
-I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
-
-My motto - Theory subjects are fun and interesting so help to make it fun and simpler.
+I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by and under supervision of Prof. Cesim Erten.
 
 As a Teaching Assistant, I had regular duties like any other student TAs. I think being a TA is chance to continuosly learn and be open to new questions and challenging own comprehension. Not limiting to any point of view.
 
 - I have prior experience working as a Teaching Assistant at University of Colorado Boulder on Machine Learning and Artificial Intelligence courses.
 
-- **Prof. Cesim Erten mentored me and I learnt a lot.** It was helpful.
+- My motto - Theory subjects are fun and interesting so help to make it fun and simpler.
+
+- **Prof. Cesim Erten mentored me and I learnt a lot.** It was helpful. I am grateful.
 
 - During pandemic, I learnt about Theory of Computation and Automata theory in depth and types of logics, Formal languages. 
   
