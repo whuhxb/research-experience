@@ -27,7 +27,7 @@ Here although most of the tasks were well directed, I had some interesting findi
 
 ### Mar 18th 2023
 
-  c) I found some interesting work on Abstract Meaning Representation extended to document-level structures. 
+  c) I found some interesting works on Abstract Meaning Representation extended to document-level structures. 
   The idea is similar to other known approaches in Historical or OCR scanned documents: 
   label the segments and related Regions of Interests (ROI) like a sentence-span, paragraph spans to keywords/events. 
   **This one for the "Abstract Meaning Representation" of Martha Palmer.**
