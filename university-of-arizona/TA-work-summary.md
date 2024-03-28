@@ -1,7 +1,7 @@
 ## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
 
-I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
-Theory subjects are fun and interesting!!
+I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
+Theory subjects are fun and interesting.
 
 As a Teaching Assistant, I had regular duties like any other student TAs. I believe, 
 
