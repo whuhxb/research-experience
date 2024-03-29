@@ -2,24 +2,22 @@
 
 I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by and under supervision of Prof. Cesim Erten.
 
-As a Teaching Assistant, I had regular duties like any other student TAs. I think being a TA is chance to continuosly learn and be open to new questions and challenging own comprehension. Not limiting to any point of view.
+- As a Teaching Assistant, I had regular duties like any other student TAs. I think being a TA is chance to continuosly learn and be open to new questions and challenging own comprehension. Not limiting to any point of view.
 
 - I have prior experience working as a Teaching Assistant at University of Colorado Boulder on Machine Learning and Artificial Intelligence courses.
 
 - My motto - Theory subjects are fun and interesting so help to make it fun and simpler.
-
-- **Prof. Cesim Erten mentored me and I learnt a lot.** It was helpful. I am grateful.
-
-- During pandemic, I learnt about Theory of Computation and Automata theory in depth and types of logics, Formal languages. 
-  
-- During my TA works, I read research works for most of the assignments questions. This subject involves questions having multiple answers/solutions.
-  
 - Its a never-ending learning.
+
+### Acheivements
+
+I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
 
 ### My contributions to this course as a Teaching Assistant during Fall 2023:
 
 - **During Fall 2023**, it became a Spiritual quest for me. So at one point there was a question on Left Quotient problem. I quickly found a research paper on this and I had the answer. So I read about Transducers before, so it was easier to connect about Transducers that have an input and output. So I used Transducers to to come up with a transducer-type of solution to **visually explain to the students**.
 - Being ready to listen to any type of questions and to help with answers or to seek and/or learn better answers.
+- I proactively suggested to reduce heavy weight on homeworks, and suggested to have quizzes and having points/extra credits for piazza questions in Fall 2023 which was part of my Teaching Assistant evaluation form filled on Oct 8th-9th 2023.
  
 - **During Fall 2023**, I proactively proposed the idea of **Supplemental Instruction sessions** at the begining of the Fall semester 2023 (which are also the recitations/practice sessions about lectures), as per discussions with Professor.
 
