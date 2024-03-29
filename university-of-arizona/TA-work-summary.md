@@ -13,7 +13,7 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 
 - I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
 
-- I planned to continue a studying stress among students for this course to make sure students take advantage of opportunities provided to help them. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
+- I planned to continue a studying stress among students for this course to study if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
 
 - Implementing these ideas is a lot of hard work and I truly grateful for working with Prof. Cesim Erten.
 
