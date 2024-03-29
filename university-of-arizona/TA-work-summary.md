@@ -15,7 +15,7 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 
 - I planned to continue a studying stress among students for this course to study if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
 
-- Implementing these ideas is a lot of hard work and I truly grateful for working with Prof. Cesim Erten.
+- Implementing these ideas is a lot of hard work and I am truly grateful for working with Prof. Cesim Erten.
 
 ### My contributions to this course as a Teaching Assistant during Fall 2023:
 
