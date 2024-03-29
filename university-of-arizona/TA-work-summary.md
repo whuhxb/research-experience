@@ -9,9 +9,11 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 - My motto - Theory subjects are fun and interesting so help to make it fun and simpler.
 - Its a never-ending learning.
 
-### Acheivements
+### 🏆Acheivements as a Teaching Assistant
 
-I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
+- I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
+
+- I planned to continue a studying stress among students for this course to make sure students take advantage of opportunities provided to help them. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel.
 
 ### My contributions to this course as a Teaching Assistant during Fall 2023:
 
