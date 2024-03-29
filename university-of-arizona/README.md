@@ -35,6 +35,8 @@ PhD Student
 I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
 As a Teaching Assistant, I had regular duties like any other students. **Prof. Cesim Erten mentored me and I learnt a lot by also reading research works.** It was greatly helpful.
 
+- I previously studied this subject out of interest in languages theory.
+
 ### 🏆Acheivements as a Teaching Assistant
 
 - I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
