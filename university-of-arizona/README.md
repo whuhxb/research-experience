@@ -41,7 +41,7 @@ As a Teaching Assistant, I had regular duties like any other students. **Prof. C
 
 - I planned to continue a studying stress among students for this course if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
 
-- **During Fall 2023**, it became a Spiritual quest for me. So at one point there was a question on Left Quotient problem. I quickly found a research paper on this and I had the answer. So I read about Transducers before, so it was easier to connect about Transducers that have an input and output. So I used Transducers to to come up with a transducer-type of solution to **visually explain to the students**.
+- **During Fall 2023**, it became a Spiritual quest for me. So at one point there was a question on Left Quotient problem. I quickly found a research paper on this and I had the answer. So I read about Transducers before, so it was easier to connect about Transducers that can solve some Quotient problems of languages. So I used Transducers to come up with a solution to **visually explain to the students**.
 
 - Implementing these ideas is a lot of hard work and I am truly grateful for working with Prof. Cesim Erten.
 
