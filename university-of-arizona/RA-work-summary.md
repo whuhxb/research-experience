@@ -28,9 +28,10 @@ Here although most of the tasks were well directed, I had some interesting findi
 ### Mar 18th 2023
 
   c) I found some interesting works on Abstract Meaning Representation extended to document-level structures. 
-  The idea is similar to other known approaches in Historical or OCR scanned documents: 
+  My idea is similar to other known approaches in Historical or OCR scanned documents: 
   label the segments and related Regions of Interests (ROI) like a sentence-span, paragraph spans to keywords/events. 
   **This one for the "Abstract Meaning Representation" of Martha Palmer.**
+  The following works were nice works but I never got a chance to implement or explore.
   
   - <a href="https://arxiv.org/pdf/2205.00241.pdf">A Two-Stream AMR-enhanced Model for Document-level Event Argument Extraction<a>
   - <a href="https://aclanthology.org/C18-1313.pdf">AMR Beyond the Sentence: the Multi-sentence AMR corpus</a>
