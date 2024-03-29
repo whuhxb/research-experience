@@ -33,7 +33,16 @@ PhD Student
 ## Teaching Assistant, CSC 473 Automata, Grammars and Languages, Aug 2023 - ongoing
 
 I worked as Teaching Assistant for CSC 473 Automata, Grammars and Languages taught by Prof. Cesim Erten.
-As a Teaching Assistant, I had regular duties like any other students. But I believe, its a greater chance to learn.
-So first I needed to convince myself, my answers were right. **Prof. Cesim Erten mentored me and I learnt a lot.** It was greatly helpful.
+As a Teaching Assistant, I had regular duties like any other students. **Prof. Cesim Erten mentored me and I learnt a lot by also reading research works.** It was greatly helpful.
+
+### 🏆Acheivements as a Teaching Assistant
+
+- I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
+
+- I planned to continue a studying stress among students for this course if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
+
+- **During Fall 2023**, it became a Spiritual quest for me. So at one point there was a question on Left Quotient problem. I quickly found a research paper on this and I had the answer. So I read about Transducers before, so it was easier to connect about Transducers that have an input and output. So I used Transducers to to come up with a transducer-type of solution to **visually explain to the students**.
+
+- Implementing these ideas is a lot of hard work and I am truly grateful for working with Prof. Cesim Erten.
 
 <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-arizona/TA-work-summary.md"> Teaching Assistant for CSC 473 Automata, Grammars and Languages Fall 2023 - Ongoing </a>
