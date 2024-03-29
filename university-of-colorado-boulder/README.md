@@ -62,9 +62,9 @@ Here the challenge was we were working on a project that is vastly unfamiliar to
 - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-INFO%20VIZ%205602%20Weekly%20Journal.pdf">Class notes + required Weekly Journal </a>
 
 - Some fun visualization of skiing data for an assignment: <a href="https://github.com/sushmaakoju/skiing-data-visualization">Skiing data visualization</a>
-<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/6cb73289-9b9b-4fdd-885e-e8df812d90d9" width="700" height="200">
-<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/41e7729c-c717-4b97-92ab-257b78a4942d" width="700" height="200">
-<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/e9ca57be-4bc0-4733-83fc-417a55fedc3e" width="700" height="200">
+<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/6cb73289-9b9b-4fdd-885e-e8df812d90d9" width="700" height="300">
+<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/41e7729c-c717-4b97-92ab-257b78a4942d" width="700" height="300">
+<img src="https://github.com/sushmaakoju/skiing-data-visualization/assets/8979477/e9ca57be-4bc0-4733-83fc-417a55fedc3e" width="700" height="300">
 
 ### 7. Big Data Architecture, ATLS 5241: Gregory Greenstreet, Brian Newsom, Spring 2022
 
