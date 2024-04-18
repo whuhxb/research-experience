@@ -6,15 +6,18 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 
 - I have prior experience working as a Teaching Assistant at University of Colorado Boulder on Machine Learning and Artificial Intelligence courses.
 
-- My motto - Theory subjects are fun and interesting so help to make it fun and simpler.
+- My motto - Theory subjects are fun and interesting.
 
 - Its a never-ending learning.
+- Completed: Learning Assistant certification.
+- Completed: IA  699 - Teaching Writing in All Disciplines
+- Ongoing Spring 2024: IA 699 - Teaching as a Research
 
 - I previously studied this subject out of interest in languages theory.
 
 ### 🏆Acheivements as a Teaching Assistant
 
-- I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023 were actually implemented in Spring 2024.
+- Suggestions/ideas proposes in Fall 2023, implemented in Spring 2024: I proposed ideas to conduct syllabus-driven Supplemental Instruction sessions for practice, add quizzes in-class, idea to accomodate points for piazza questions and answers from students in October 2023.
 
 - I planned to continue a studying stress among students for this course if the students take advantage of opportunities provided to help them and if that really helps/helped them to reduce stress and improve scores. So I work on this as part of **Teaching as a Research (TAR) course** is part of CIRTL, taught by Instructors Kristin Winet and Byron Richard Hempel and I am grateful for amazing instructors.
 
@@ -34,7 +37,7 @@ I have been working as Teaching Assistant for CSC 473 Automata, Grammars and Lan
 
 ### My contributions to this course as a Teaching Assistant during Spring 2023:
 
-- **During Spring 2023**, I assimilated some information, to make subject easier and better. I cannot reveal more details about how, what etc since it is within purview of subject and confidentiality per policies.
+- **During Spring 2023**, I assimilated specific methods and examples, to make subject easier and better. I cannot reveal more details about how, what etc since it is within purview of subject and confidentiality per policies.
 
 - **During Spring 2023,** I am parallelly working on attempts reduce stress for students, make this subject fun and to make this simpler. So I requested to extend SI sessions to Spring Semester as well. I learnt from professor to explain in more simpler terms each time.
 
