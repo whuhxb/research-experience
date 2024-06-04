@@ -50,7 +50,7 @@ I recently completed reading a few notes on LLMs, Automated Reasoning, Neurosymb
 15) Machine Consciousness
 16) Basics of Mathematical Consciousness
 
-#### :books: I am constantly studying following topics topics out of interest in the subject:
+#### :books: Topics of interest (ongoing):
 
 1) First Order Logic
 2) Mathematical Logic
