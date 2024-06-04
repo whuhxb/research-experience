@@ -31,7 +31,7 @@ https://github.com/sushmaakoju/research-experience
 
 I recently completed reading a few notes on LLMs, Automated Reasoning, Neurosymbolic AI and Generative AI.
 
-#### :high_brightness: Acquired skills in NLP and AI:
+#### :high_brightness: Acquired skills/learning in NLP and AI:
 
 1) Named Entity Extraction & Recognition
 2) Binary and Multi-label classification
@@ -48,9 +48,9 @@ I recently completed reading a few notes on LLMs, Automated Reasoning, Neurosymb
 13) Statistical Data Analysis
 14) Domain-specific Machine Learning algorithms implementation
 15) Machine Consciousness
-16) Mathematical Consciousness
+16) Basics of Mathematical Consciousness
 
-#### :books: Studied following topics out of interest in the subject:
+#### :books: I am constantly studying following topics topics out of interest in the subject:
 
 1) First Order Logic
 2) Mathematical Logic
@@ -62,12 +62,14 @@ I recently completed reading a few notes on LLMs, Automated Reasoning, Neurosymb
 8) Tableau based proofs
 9) Automated Reasoning
 10) Natural Logic
-11) Monotonicity Calculus
-12) Moral reasoning in AI systems
-13) Traditional Algorithms for detecting AI generated images and AI generated texts
-14) Automata, Grammars, Languages
-15) Coelgebra
-16) Research "Handbooks" on various topics
+12) Monotonicity Calculus
+13) Knowledge representation in AI
+14) Reasoning in AI
+15) Moral reasoning in AI systems
+16) Traditional Algorithms for detecting AI generated images and AI generated texts
+17) Automata, Grammars, Languages
+18) Coelgebra
+19) Research "Handbooks" on various topics
 
 
 #### Education:
@@ -218,4 +220,4 @@ Here although most of the tasks were well directed, I had some interesting findi
 
 #### Summer 2023
 
-  d) We did not implement c) exactly, but after guided review, we had a different strategy as per supervision from Prof. Mihai Surdeanu. My aforementioned three ideas remain unexplored.
+  d) We did not implement c) exactly, but after guided feedback, we had a different strategy as per supervision from Prof. Mihai Surdeanu. My aforementioned three ideas remain unexplored.
